@@ -19,5 +19,3 @@
 - Majored in mechanical Engineering.
 
 - Contact: dyobi.92@gmail.com
-
----
