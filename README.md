@@ -1,4 +1,6 @@
-<img src="https://cdn.pixabay.com/photo/2017/10/31/00/23/portfolio-2903909_1280.png" width="200" height="200" title="header" alt="header" class="disable">
+<a pointer-events="none">
+  <img src="https://cdn.pixabay.com/photo/2017/10/31/00/23/portfolio-2903909_1280.png" width="200" height="200" title="header" alt="header">
+</a>
 
 # WEBPJT_RESUME
 
