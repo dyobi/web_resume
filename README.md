@@ -11,3 +11,13 @@
 <img src="https://github.com/dyobi/WEBPJT_RESUME/blob/main/PREVIEW.png?raw=true" width="100%" title="preview" alt="preview">
 
 ---
+
+## Luke Kim (@kilkim in 42 Silicon Valley)
+
+- A Web developer who likes trying new things.
+
+- Majored in mechanical Engineering.
+
+- Contact: dyobi.92@gmail.com
+
+---
