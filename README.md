@@ -1,4 +1,4 @@
-<img src="https://pixabay.com/illustrations/hiring-recruitment-career-human-2575043/" width="200" height="200" title="header" alt="header">
+<img src="https://cdn.pixabay.com/photo/2017/08/03/08/34/hiring-2575043_1280.png" width="200" height="200" title="header" alt="header">
 
 # WEBPJT_RESUME
 
