@@ -10,7 +10,7 @@
 
 ## PREVIEW
 
-<img src="https://github.com/dyobi/WEBPJT_RESUME/blob/main/PREVIEW.png?raw=true" width="100%" title="preview" alt="preview">
+<img src="https://github.com/dyobi/web_resume/blob/main/PREVIEW.png?raw=true" width="100%" title="preview" alt="preview">
 
 ---
 
